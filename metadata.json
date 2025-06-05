@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Insights & Idea Generator",
+  "description": "An AI-powered web application to analyze Instagram content performance and generate content ideas using Google Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
